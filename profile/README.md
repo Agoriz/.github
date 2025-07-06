@@ -1,54 +1,51 @@
 # Agoriz
 
-## About Us
+**Building infrastructure for voluntary exchange.**
 
-Agoriz is a technology organization dedicated to building decentralized infrastructure that empowers individuals with financial sovereignty, privacy, and true freedom.
+## Who we are
 
-Founded on the principles of agorism and peer-to-peer exchange, Agoriz develops protocols and tools designed to eliminate intermediaries, custody risks, and surveillance in digital payments and beyond.
+Agoriz is a startup focused on payment infrastructure that operates without intermediaries, custody, or permission systems. We build tools that enable direct economic exchange between individuals.
 
-We envision a world where every person controls their own digital assets and data without relying on centralized platforms or permissioned systems.
+We are driven by the conviction that economic freedom requires technical solutions, not political ones. Every person should be able to transact without exposing their identity, asking for permission, or depending on institutions that decide who participates in the economy.
 
-## Our Mission
+## What we build
 
-To create robust, permissionless, and privacy-focused technologies that restore control to individuals, enabling a free and open digital economy.
+We create decentralized payment systems that solve real problems:
 
-We strive to build infrastructure that:
+* Custody risk in traditional payment processors
+* Mandatory identity verification for basic transactions  
+* Geographic restrictions on economic participation
+* Opaque fee structures and arbitrary rule changes
+* Chargeback exposure for sellers
 
-* Respects individual sovereignty
-* Guarantees absolute privacy
-* Eliminates custodial risk
-* Operates transparently and auditable
-* Is accessible globally without restrictions
+Our approach is technical, not ideological. We build working systems that preserve individual autonomy through code architecture rather than policy promises.
 
-## Our Philosophy
+## Our principles
 
-At Agoriz, we reject legacy financial models that enforce control through intermediaries, mandatory KYC, and surveillance.
+**Direct ownership**: If funds are yours, no one else should control them.
 
-Our work embraces:
+**Privacy by design**: Identity should not be required for economic participation.
 
-* **Individual freedom** over institutional control
-* **Self-custody** over third-party custody
-* **Permissionless innovation** over gatekeeping
-* **Privacy by design** over data exploitation
-* **Decentralization** as a non-negotiable foundation
+**Transparent operations**: Rules should be mathematical, not bureaucratic.
 
-We build not just software but a movement that champions autonomy and economic liberty.
+**Open access**: Geographic location should not determine economic opportunity.
 
-## Our Technology
+**Predictable costs**: Fees should be algorithmic and verifiable.
 
-We develop modular, secure, and scalable blockchain-based protocols that serve as foundational building blocks for decentralized applications.
+## How we operate
 
-Our first product, the **Agoriz Protocol**, is a decentralized payment infrastructure designed to enable trustless, non-custodial, private transactions worldwide.
+We develop with responsibility over publicity. Code is released when it works under pressure, not when it generates attention.
 
-Looking ahead, Agoriz will expand its portfolio to include tools for identity sovereignty, decentralized marketplaces, and privacy-preserving financial services.
+Our funding comes from individuals and organizations who understand the mission. This support respects our complete autonomy in technical and strategic decisions.
 
-## Join Us
+We do not seek permission to build systems that restore economic agency to individuals.
 
-Agoriz is more than technology — it’s a commitment to reclaim digital freedom.
+## Current focus
 
-Whether you are a developer, entrepreneur, or enthusiast, join us in building infrastructure that respects your rights and autonomy.
+Our first product is the Agoriz Protocol, a multi-chain payment gateway supporting Ethereum, Polygon, and other compatible networks. It enables direct peer-to-peer transactions with zero custody and configurable fees.
 
-* Visit our repositories for the latest projects
-* Participate in discussions and governance
-* Contribute code or ideas
-* Spread the vision of a decentralized, free internet economy
+Additional tools will follow, all designed around the same core principle: technical solutions that give control back to those who create value.
+
+---
+
+*Economic freedom through technical infrastructure.*

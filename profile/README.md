@@ -4,7 +4,7 @@
 
 Agoriz is a technology organization dedicated to building decentralized infrastructure that empowers individuals with financial sovereignty, privacy, and true freedom.
 
-Founded on the principles of agorism and peer-to-peer exchange, Agoriz develops open-source protocols and tools designed to eliminate intermediaries, custody risks, and surveillance in digital payments and beyond.
+Founded on the principles of agorism and peer-to-peer exchange, Agoriz develops protocols and tools designed to eliminate intermediaries, custody risks, and surveillance in digital payments and beyond.
 
 We envision a world where every person controls their own digital assets and data without relying on centralized platforms or permissioned systems.
 
@@ -42,14 +42,6 @@ Our first product, the **Agoriz Protocol**, is a decentralized payment infrastru
 
 Looking ahead, Agoriz will expand its portfolio to include tools for identity sovereignty, decentralized marketplaces, and privacy-preserving financial services.
 
-## Why Open Source
-
-Transparency and community empowerment are core to our mission.
-
-All our projects are open-source, audited, and free for anyone to use, contribute to, and build upon.
-
-We believe trust is earned through code, not marketing.
-
 ## Join Us
 
 Agoriz is more than technology — it’s a commitment to reclaim digital freedom.
@@ -60,4 +52,3 @@ Whether you are a developer, entrepreneur, or enthusiast, join us in building in
 * Participate in discussions and governance
 * Contribute code or ideas
 * Spread the vision of a decentralized, free internet economy
-

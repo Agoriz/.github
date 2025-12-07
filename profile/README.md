@@ -1,51 +1,68 @@
 # Agoriz
 
-**Building infrastructure for voluntary exchange.**
+Agoriz develops open infrastructure for direct, peer-to-peer economic exchange.
+Our focus is on building tooling that allows users to transact without intermediaries, custodial risk, or mandatory identification.
 
-## Who we are
+## Overview
 
-Agoriz is a startup focused on payment infrastructure that operates without intermediaries, custody, or permission systems. We build tools that enable direct economic exchange between individuals.
+Agoriz maintains a set of protocols and tools for permissionless payments over public blockchain networks. The objective is to provide reliable primitives for sending and receiving value using only user-controlled keys, while keeping the system transparent and predictable from a technical standpoint.
 
-We are driven by the conviction that economic freedom requires technical solutions, not political ones. Every person should be able to transact without exposing their identity, asking for permission, or depending on institutions that decide who participates in the economy.
+The project is currently under active development. Some components are available for use, while others are in progress and will be released over time.
 
-## What we build
+## Core Principles
 
-We create decentralized payment systems that solve real problems:
+**User-controlled funds**
+All mechanisms are designed so that the user retains full control over their private keys and assets.
 
-* Custody risk in traditional payment processors
-* Mandatory identity verification for basic transactions  
-* Geographic restrictions on economic participation
-* Opaque fee structures and arbitrary rule changes
-* Chargeback exposure for sellers
+**Minimal assumptions**
+Components avoid dependencies on centralized services when possible. Protocol rules are deterministic and verifiable.
 
-Our approach is technical, not ideological. We build working systems that preserve individual autonomy through code architecture rather than policy promises.
+**Network-based fees only**
+The system is being redesigned to remove platform-level fees, leaving only the underlying network costs required by the blockchain used in the transaction.
 
-## Our principles
+**Interoperability**
+The protocol aims to support multiple EVM-compatible networks and maintain consistent behavior across them.
 
-**Direct ownership**: If funds are yours, no one else should control them.
+**Transparent architecture**
+Implementation details, transaction flows, and interfaces are documented to allow independent verification and auditing.
 
-**Privacy by design**: Identity should not be required for economic participation.
+## Current Components
 
-**Transparent operations**: Rules should be mathematical, not bureaucratic.
+### Agoriz Protocol (in active development)
 
-**Open access**: Geographic location should not determine economic opportunity.
+A multi-chain gateway for peer-to-peer value transfer.
+Supports:
 
-**Predictable costs**: Fees should be algorithmic and verifiable.
+* Ethereum, Polygon, and other EVM-compatible networks
+* Non-custodial transfers
+* Configurable transaction parameters
+* Deterministic fee behavior (network-only as development progresses)
 
-## How we operate
+### API Layer (experimental)
 
-We develop with responsibility over publicity. Code is released when it works under pressure, not when it generates attention.
+REST endpoints designed to simplify interaction with the protocol.
+Intended usage:
 
-Our funding comes from individuals and organizations who understand the mission. This support respects our complete autonomy in technical and strategic decisions.
+* creating payment requests
+* retrieving transaction metadata
+* network-agnostic integration for frontend clients
 
-We do not seek permission to build systems that restore economic agency to individuals.
+### SDK and Integration Tools (in progress)
 
-## Current focus
+A set of libraries to interact with the protocol programmatically.
+Goals include:
 
-Our first product is the Agoriz Protocol, a multi-chain payment gateway supporting Ethereum, Polygon, and other compatible networks. It enables direct peer-to-peer transactions with zero custody and configurable fees.
+* simplified payment flows for applications
+* utilities for signature handling
+* helpers for multi-network deployments
+  These components are not yet stable.
 
-Additional tools will follow, all designed around the same core principle: technical solutions that give control back to those who create value.
+## Development Approach
 
----
+The project favors correctness, resilience, and test coverage over rapid feature release.
+Code and documentation are published incrementally as components reach a stable baseline.
 
-*Economic freedom through technical infrastructure.*
+## Contributing
+
+Contribution guidelines, issue templates, and development instructions will be added once the repository structure stabilizes.
+For now, feedback and technical discussion are welcome through GitHub issues.
